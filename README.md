@@ -1,3 +1,5 @@
+# VERY OLD SDK and GIMBAL ADAPTER - PROBABLY NOT WORKING ANYMORE!!!
+
 # Android Urban Airship SDK
 
 Urban Airship SDK for Android.
