@@ -1,6 +1,6 @@
 /* Copyright 2016 Urban Airship and Contributors */
 
-package com.urbanairship.sample;
+package com.urbanairship.alexdown;
 
 import android.content.Context;
 import android.content.IntentFilter;
@@ -18,11 +18,11 @@ import android.support.v4.app.NotificationManagerCompat;
 
 import com.urbanairship.AirshipReceiver;
 import com.urbanairship.UAirship;
-import com.urbanairship.sample.utils.ActionsPayload;
-import com.urbanairship.sample.utils.InAppMessagePayload;
-import com.urbanairship.sample.utils.PushPayload;
-import com.urbanairship.sample.utils.PushSender;
-import com.urbanairship.sample.utils.RichPushPayload;
+import com.urbanairship.alexdown.utils.ActionsPayload;
+import com.urbanairship.alexdown.utils.InAppMessagePayload;
+import com.urbanairship.alexdown.utils.PushPayload;
+import com.urbanairship.alexdown.utils.PushSender;
+import com.urbanairship.alexdown.utils.RichPushPayload;
 import com.urbanairship.util.UAStringUtil;
 
 import org.junit.After;

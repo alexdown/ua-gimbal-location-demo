@@ -1,6 +1,6 @@
 /* Copyright 2016 Urban Airship and Contributors */
 
-package com.urbanairship.sample;
+package com.urbanairship.alexdown;
 
 import android.app.Activity;
 import android.content.Intent;

@@ -1,6 +1,6 @@
 /* Copyright 2016 Urban Airship and Contributors */
 
-package com.urbanairship.sample.preference;
+package com.urbanairship.alexdown.preference;
 
 import android.content.Context;
 import android.preference.DialogPreference;

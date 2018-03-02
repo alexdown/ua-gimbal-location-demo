@@ -1,6 +1,6 @@
 /* Copyright 2016 Urban Airship and Contributors */
 
-package com.urbanairship.sample.preference;
+package com.urbanairship.alexdown.preference;
 
 import android.content.Context;
 import android.preference.DialogPreference;
@@ -18,7 +18,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.urbanairship.UAirship;
-import com.urbanairship.sample.R;
+import com.urbanairship.alexdown.R;
 import com.urbanairship.util.UAStringUtil;
 
 import java.util.ArrayList;
